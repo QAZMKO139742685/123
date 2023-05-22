@@ -1,1 +1,23 @@
-body {background:#ffffff)
+body {background:#ffffff}
+
+p{ 
+
+  background-color: #8ce600;
+
+  padding-top:100px; 
+
+  padding-left:100px; 
+
+  padding-right:100px; 
+
+  padding-bottom:100px; 
+
+  margin-top:200px; 
+
+  margin-left:200px; 
+
+  margin-right:200px; 
+
+  margin-bottom:200px;   
+
+}
