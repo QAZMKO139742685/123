@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 何燿廷 (https://codepen.io/kmmvpxql-the-typescripter/pen/KKxvPbW)
+Copyright (c) 2023 QAZMKO139742685 (https://codepen.io/QAZMKO139742685/pen/BaGNmwL)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
